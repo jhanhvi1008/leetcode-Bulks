@@ -27,4 +27,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0021-merge-two-sorted-lists) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
