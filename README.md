@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0022-generate-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0018-4sum) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
