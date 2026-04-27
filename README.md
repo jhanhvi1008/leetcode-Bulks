@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0039-combination-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0039-combination-sum) |
 ## String Matching
 |  |
 | ------- |
