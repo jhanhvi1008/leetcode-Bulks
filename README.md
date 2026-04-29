@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0048-rotate-image) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0048-rotate-image) |
 ## Greedy
 |  |
 | ------- |
