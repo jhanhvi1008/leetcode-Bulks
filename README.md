@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0054-spiral-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -95,8 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0054-spiral-matrix) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0045-jump-game-ii) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
