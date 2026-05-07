@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0078-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0078-subsets) |
 ## String Matching
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0078-subsets) |
 ## Memoization
 |  |
 | ------- |
