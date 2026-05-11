@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0095-unique-binary-search-trees-ii) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0095-unique-binary-search-trees-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -170,4 +172,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0079-word-search) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
