@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0096-unique-binary-search-trees) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
 | ------- |
@@ -179,12 +181,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
