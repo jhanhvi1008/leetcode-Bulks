@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0118-pascals-triangle) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0118-pascals-triangle) |
 ## Sorting
 |  |
 | ------- |
