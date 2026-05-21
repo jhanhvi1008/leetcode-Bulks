@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0079-word-search) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0078-subsets) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0068-text-justification) |
 ## Bit Manipulation
 |  |
 | ------- |
