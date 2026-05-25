@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Array
 |  |
 | ------- |
@@ -192,12 +193,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0098-validate-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0098-validate-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -210,8 +213,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0098-validate-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0085-maximal-rectangle) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
