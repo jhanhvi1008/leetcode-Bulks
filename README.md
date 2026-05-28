@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Tree
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Monotonic Stack
@@ -228,5 +231,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
