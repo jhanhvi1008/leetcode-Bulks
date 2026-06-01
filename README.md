@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
