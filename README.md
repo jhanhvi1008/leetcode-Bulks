@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0090-subsets-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0118-pascals-triangle) |
 ## Sorting
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0073-set-matrix-zeroes) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0141-linked-list-cycle) |
 ## Matrix
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -246,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
