@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
 | ------- |
