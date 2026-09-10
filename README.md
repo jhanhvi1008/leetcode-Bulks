@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0136-single-number) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0136-single-number) |
 ## Memoization
 |  |
 | ------- |
