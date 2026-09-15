@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0144-binary-tree-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
