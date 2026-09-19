@@ -1,0 +1,23 @@
+class Solution:
+    def flatten(self, root):
+        current = root
+
+        while current:
+            if current.left:
+             
+                predecessor = current.left
+
+                while predecessor.right:
+                    predecessor = predecessor.right
+
+                predecessor.right = current.right
+
+               
+                current.right = current.left
+
+              
+                current.left = None
+
+            # Move to the next node
+            current = current.right
+        
