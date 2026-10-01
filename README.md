@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0146-lru-cache) |
 ## Array
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0146-lru-cache) |
 ## Matrix
 |  |
 | ------- |
@@ -320,4 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
