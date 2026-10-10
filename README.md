@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0048-rotate-image) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
