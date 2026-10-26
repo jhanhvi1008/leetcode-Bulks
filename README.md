@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0168-excel-sheet-column-title) |
 ## Recursion
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Sorting
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jhanhvi1008/leetcode-Bulks/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Depth-First Search
 |  |
 | ------- |
